@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @icaal456
+- 👋 Hi, I’m Faizal
 - 👀 I’m interested in Business Intelegence
 - 🌱 I’m currently learning Data Analysis usign Pyhton and R
 - 💞️ I’m looking to collaborate on Sales and Production Data Analysis and Viasualization Automation using Python and R
